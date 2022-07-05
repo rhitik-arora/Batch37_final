@@ -32,9 +32,6 @@ Steps to run
 
 2. Your contract will get deployed to the network
 
-3. Open  **src/js/app.js** file. This is the javascript file
-that interacts with the contract.
+3. Run "yarn serve" to serve the web app locally
 
-4. Run "yarn serve" to serve the web app locally
-
-5. Connect your metamask to the web app and interact with the Dapp
+4. Connect your metamask to the web app and interact with the Dapp
